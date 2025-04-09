@@ -1,17 +1,13 @@
-# Enhetskonverterare v 1.0
+# Enhetskonverterare v 1.1
 
-Ange vilket värde du vill konvertera. Du presenteras sedan med vilket värde du angav och får ett konverterat värde tillbaka.
+The name "Enhetskonverterare" is in Swedish and translates to Unit-converter. in v1.0 this program was written entirely in Swedish but i've changed the whole laungage to English. 
 
-Känn dig fri att ta del av denna kod, men jag friskriver mig allt ansvar och du använder den på egen risk.
-Skapad 6 april 2025 av Vincent (Mallard-Dash)
+---What is this program?---
+This is a basic unit-converter that convert mostly imperial units to metric units. The program is built around one main menu with five sub-menus that each corresponds with different categories in units.
+Navigate all the menus using the coresponding number of the menu choices. When you enter a sub-menu you will be presented with all the available unit-converters for that sub-menu category. When you have made a choice you will be asked to enter a value (float accepted). Then the program will return both the entered value + the converted value followed by a repeating of the sub-menu choices.
 
-ENGLISH;
-This version is only in Swedish. The reason for this is because i'm focusing more on developing my programming-skills. I might write an english version but in the meantime i will provide with a translation here in the readme :D (yay!)
+---What's new in version 1.1?---
+-Sub-menus with each unit category
+-More unit-functions
 
-Main menu
-Choose a number between 1-7
-Now choose one of the units you would like to convert by pressing the designated menu-number.
-You will be asked to enter a value (float values are accepted!). The result is presented directly followed by the main menu.
-If you wish to close the program you can either press key number 7 or simply close the window.
-
-In later versions i might add more features but right now i want to keep my projects small.
+This is a program that i made as a hobby-project to sharpen my skills in programming.
